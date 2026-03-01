@@ -1,6 +1,5 @@
 /**
  * Data models for Awesome Reader
- * Will be implemented in Phase 2
  */
 
 export interface AwesomeList {
@@ -23,4 +22,13 @@ export interface Entry {
   name: string;
   url: string;
   description: string;
+}
+
+/**
+ * Flattened entry with category context, used for search.
+ */
+export interface SearchEntry extends Entry {
+  listSlug: string;
+  listName: string;
+  categoryName: string;
 }
