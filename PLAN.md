@@ -4,13 +4,13 @@
 
 ## 技术选型
 
-| 类别 | 选择 | 说明 |
-|------|------|------|
-| 框架 | Next.js 14 (App Router) | SSG 静态生成，SEO 友好 |
-| 语言 | TypeScript | 类型安全 |
-| 样式 | Tailwind CSS | 快速开发，响应式设计 |
-| 数据来源 | GitHub API + Raw Markdown | 构建时抓取并解析 |
-| 部署 | Vercel | 与 Next.js 深度集成，免费额度充足 |
+| 类别     | 选择                      | 说明                              |
+| -------- | ------------------------- | --------------------------------- |
+| 框架     | Next.js 14 (App Router)   | SSG 静态生成，SEO 友好            |
+| 语言     | TypeScript                | 类型安全                          |
+| 样式     | Tailwind CSS              | 快速开发，响应式设计              |
+| 数据来源 | GitHub API + Raw Markdown | 构建时抓取并解析                  |
+| 部署     | Vercel                    | 与 Next.js 深度集成，免费额度充足 |
 
 ## 核心功能
 
@@ -21,18 +21,18 @@
 
 ## 首批收录列表（10 个热门列表）
 
-| 列表 | 仓库 |
-|------|------|
-| Awesome Python | vinta/awesome-python |
-| Awesome Go | avelino/awesome-go |
-| Awesome JavaScript | sorrycc/awesome-javascript |
-| Awesome React | enaqx/awesome-react |
-| Awesome Vue | vuejs/awesome-vue |
-| Awesome Rust | rust-unofficial/awesome-rust |
-| Awesome Java | akullpp/awesome-java |
-| Awesome TypeScript | dzharii/awesome-typescript |
-| Awesome Node.js | sindresorhus/awesome-nodejs |
-| Awesome Swift | matteocrippa/awesome-swift |
+| 列表               | 仓库                         |
+| ------------------ | ---------------------------- |
+| Awesome Python     | vinta/awesome-python         |
+| Awesome Go         | avelino/awesome-go           |
+| Awesome JavaScript | sorrycc/awesome-javascript   |
+| Awesome React      | enaqx/awesome-react          |
+| Awesome Vue        | vuejs/awesome-vue            |
+| Awesome Rust       | rust-unofficial/awesome-rust |
+| Awesome Java       | akullpp/awesome-java         |
+| Awesome TypeScript | dzharii/awesome-typescript   |
+| Awesome Node.js    | sindresorhus/awesome-nodejs  |
+| Awesome Swift      | matteocrippa/awesome-swift   |
 
 ---
 
